@@ -1,11 +1,11 @@
-# Char Value
+# CHR and ORD functions
 
 Sublime Text 3 package that adds a command for getting the byte value (or Unicode code point) of one or more characters.
 
 Installation
 ------------
-This package is available through [Package Control](https://sublime.wbond.net/), it’s called “Char Value”.
+In your Sublime, go to `Preferences > Browse Packages`. Clone this repository in that folder.
 
 Usage
 -----
-Select one or more characters and run “Char Value” from the Command Palette. Each character will be replaced by its value. If more than one character is replaced, there will also be a space between each value.
+On your Command Palette use commands called "CHR" and "ORD".
